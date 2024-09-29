@@ -38,3 +38,11 @@ per  = square.perimeter(size) # 4 * size
 print(area, per)
 ```
 ## История коммитов ##
+Здесь вы найдете историю коммитов
+```
+d139556 Added code examples, open commit history log
+69bd516 Added docx.md with information about square.py and circle.py
+4b17085 Added documentation to cicrle.py and square.py
+d078c8d (origin/main, origin/HEAD) L-03: Docs added
+8ba9aeb L-03: Circle and square added
+```
