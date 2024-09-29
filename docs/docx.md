@@ -37,3 +37,4 @@ per  = square.perimeter(size) # 4 * size
 
 print(area, per)
 ```
+## История коммитов ##
