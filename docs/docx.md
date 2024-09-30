@@ -40,6 +40,8 @@ print(area, per)
 ## История коммитов ##
 Здесь вы найдете историю коммитов
 ```
+7ee7c67 Delete information about branches in commit history (docs\docx.md)
+c914b9a Add commits history block in docs/docx.md
 d139556 Added code examples, open commit history log
 69bd516 Added docx.md with information about square.py and circle.py
 4b17085 Added documentation to cicrle.py and square.py
